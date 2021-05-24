@@ -1,7 +1,9 @@
+/* Body */
 *{
     margin: 0;
     padding: 0;
 }
+/* header */
 
 .Topbanner{
     height: 100px;
@@ -18,3 +20,30 @@
     width: 150px;
     height: 150px;
 }
+/* Main */
+
+/* Top section */
+
+.Maintitle{
+    margin-top: 20px;
+    font-size:  30px;
+}
+
+.WriterInfo{
+    color: rgb(133, 129, 129);
+}
+
+.WriterInfo .Decoration{
+    color:deepskyblue;
+}
+/* Paragraph section */
+
+.Paragraphsection{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.Paragraphsection .Highlighter{
+    background-color: yellow;
+}
+
