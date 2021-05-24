@@ -17,8 +17,12 @@
     height: 150px;
 }
 /* Main */
-
+main{
+    margin: 15px;
+}
 /* Top section */
+
+
 
 .Maintitle{
     font-size:  30px;
@@ -36,7 +40,7 @@
 .Paragraphsection{
     margin-top: 20px;
     font-size: 20px;
-    margin-bottom: 10px;;
+    margin: 15px;
 }
 
 .Paragraphsection .Highlighter{
@@ -44,8 +48,15 @@
 }
 /* Table */
 
+
+.remove{
+    padding: 0;
+    margin: 0;
+    border-spacing: 0;
+}
 .Tabletop{
     background-color: rgb(36, 154, 175);
+    padding: 0;
 }
 .Spacedlorem, .Shortlorem{
     width: 500px;
