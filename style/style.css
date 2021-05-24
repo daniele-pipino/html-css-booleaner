@@ -44,5 +44,18 @@
 }
 /* Table */
 
+.Tabletop{
+    background-color: rgb(36, 154, 175);
+}
+.Spacedlorem, .Shortlorem{
+    width: 500px;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.Spacedlorem-white, .Shortlorem-white{
+    width: 500px;
+    text-align: center;
+}
 
 
