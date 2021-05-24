@@ -57,5 +57,26 @@
     width: 500px;
     text-align: center;
 }
+/* Last section */
+
+.Other{
+    color: grey;
+}
+
+.Otherarticles1{
+    width: 300px;
+    height: 200px;
+    background-image:url('../img/monitor.jpg');
+}
+
+.Otherarticles2{
+    width: 300px;
+    height: 200px;
+    background-image:url(../img/graph.jpg)
+}
+
+.Articlesname{
+    text-align: center;
+}
 
 
